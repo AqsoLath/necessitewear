@@ -287,6 +287,10 @@ footer{
 		padding: 10px;
 	}
 
+	.navbar-brand{
+		font-size: 1.7rem;
+	}
+
 	.product h6{
 		/*font-size: .5rem;*/
 	}
