@@ -7,11 +7,13 @@
 *{
 	/*border: 1px solid red;*/
 	font-family: var(--poppins);
+	
 	/*display: none;*/
 }
 
 body{
 	color: var(--black);
+	text-transform: uppercase;
 }
 
 nav{
@@ -39,12 +41,36 @@ nav{
 	margin: 20px 0;
 	border-bottom: 1px solid var(--black);
 	font-family: var(--poppins);
-	border-top: 1px solid var(--black)
+	border-top: 1px solid var(--black);
+	position: relative;
+}
+
+.hero h2{
+	position: absolute;
+	bottom: 2%;
+	/*transform: translateY(-100px);*/
+	left: 5%;
+	color: #fff;
+	text-decoration: underline;
+	background-color: rgba(0,0,0,.3);
+	padding: 5px;
+	font-size: 1.6rem;
+	z-index: 100;
+}
+
+.hero h2:hover{
+	color: var(--black);
 }
 
 .hero-img{
 	padding: 0;
+	position: relative;
 	/*margin: 0;*/
+}
+
+.flex-latest{
+	display: flex;
+	justify-content: center;
 }
 
 .available img{
@@ -60,7 +86,7 @@ nav{
 	color: #ea501f;
 }
 
-.latest{
+.shop{
 	padding: 20px;
 	/*border-top: 1px solid var(--black);
 	border-bottom: 1px solid var(--black);*/
@@ -70,12 +96,21 @@ nav{
 	/*border: 1px solid var(--black);*/
 }
 
+#tandalatest, #tandabest{
+	position: absolute;
+	margin-top: -30px;
+}
+
 .product{
 	position: relative;
 	border: 1px solid var(--black);
 	padding: 30px;
 	cursor: pointer;
-	transition: .3s;
+	transition: .5s;
+}
+
+.product img{
+	/*pointer-events: none;*/
 }
 
 .product .new{
@@ -86,7 +121,7 @@ nav{
 }
 
 .product:hover{
-	opacity: .8;
+	/*opacity: .8;*/
 }
 
 .col-product{
@@ -96,10 +131,17 @@ nav{
 
 .product h5{
 	margin-top: 15px;
+	pointer-events: none;
+	/*height: 70px;*/
 }
 
 .product h6{
-	height: 50px;
+	/*height: 50px;*/
+	pointer-events: none;
+}
+
+.product-body{
+	/*min-height: 140px;*/
 }
 
 .product span{
@@ -155,6 +197,7 @@ nav{
 	text-align: center;
 	margin-top: 10px;
 	min-height: 70px;
+	text-transform: none;
 }
 
 .quotes-button{
@@ -228,10 +271,12 @@ nav{
 
 footer{
 	border-top: 1px solid var(--black);
+	text-transform: none !important;
 }
 
 .footer{
 	padding: 0 20px;
+
 
 }
 
@@ -310,18 +355,38 @@ footer{
 	.available img {
 		width: 30px;
 	}
-	.product .new{
-			width: 30px;
-			top: 10px;
-			right: 10px;
-		}
+
 	.socmed{
 		border-top: 1px solid var(--black);
 		border-left: none;
 		
 	}
 
-	footer .copyright{
+	footer .about p{
+		font-size: .9rem;
+	}
+
+	footer .copyright p{
 		font-size: .8rem;
 	}
+
+	.hero h2 {
+		font-size: 1.1rem !important;
+	}
+}
+
+@media (max-width: 1024px){
+		.product .new{
+			width: 30px;
+			top: 10px;
+			right: 10px;
+		}
+
+		.hero h2{
+			font-size: 1.5rem;
+		}
+
+		/*.hero h2{*/
+			/*font-size: 1.5rem;
+		}*/
 }
