@@ -136,7 +136,7 @@
       <div class="row products text-center " id="hover-latest">
           <div class="col-6 col-product">
             <div class="product h-100" id="product1" onclick="window.location='https://shopee.co.id/necessitewear';">
-              <img src="image/245-depan.jpg" id="image1" class="img-fluid kaos">
+              <img src="image/baru1-depan.jpg" id="image1" class="img-fluid kaos">
               <h5>t-shirt necessite baru 1</h5>
               <h6><span>Rp. 128.000</span><br> Rp. 78.000</h6>
               <img src="image/new.png" class="new">
@@ -144,7 +144,7 @@
           </div>
           <div class="col-6 col-product">
             <div class="product h-100" id="product2" onclick="window.location='https://shopee.co.id/necessitewear';">
-              <img src="image/246-depan.jpg" id="image2" class="img-fluid kaos">
+              <img src="image/baru2-depan.jpg" id="image2" class="img-fluid kaos">
               <h5>t-shirt necessite baru 2</h5>
               <h6><span>Rp. 128.000</span><br> Rp. 78.000</h6>
               <img src="image/new.png" class="new">

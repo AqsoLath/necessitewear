@@ -16,8 +16,8 @@
 // 		}
 // })
 
-const imageDepan = ["245-depan.jpg", "246-depan.jpg", "ali-depan.jpg", "sunflower-depan.jpg", "pablo-depan.jpg", "japan-depan.jpg"];
-const imageBelakang = ["245-belakang.jpg", "246-belakang.jpg", "ali-belakang.jpg", "sunflower-belakang.jpg", "pablo-belakang.jpg", "japan-belakang.jpg"];
+const imageDepan = ["baru1-depan.jpg", "baru2-depan.jpg", "ali-depan.jpg", "sunflower-depan.jpg", "pablo-depan.jpg", "japan-depan.jpg"];
+const imageBelakang = ["baru1-belakang.jpg", "baru2-belakang.jpg", "ali-belakang.jpg", "sunflower-belakang.jpg", "pablo-belakang.jpg", "japan-belakang.jpg"];
 
 // const product2 = document.getElementById('product2');
 // const image2 = document.getElementById('image2');
