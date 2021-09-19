@@ -16,8 +16,8 @@
 // 		}
 // })
 
-const imageDepan = ["kaosdepan.png", "kaosbelakang.png", "depan3.png"];
-const imageBelakang = ["kaosbelakang.png", "kaosdepan.png", "belakang3.png"];
+const imageDepan = ["245-depan.jpg", "246-depan.jpg", "ali-depan.jpg", "sunflower-depan.jpg", "pablo-depan.jpg", "japan-depan.jpg"];
+const imageBelakang = ["245-belakang.jpg", "246-belakang.jpg", "ali-belakang.jpg", "sunflower-belakang.jpg", "pablo-belakang.jpg", "japan-belakang.jpg"];
 
 // const product2 = document.getElementById('product2');
 // const image2 = document.getElementById('image2');
@@ -36,13 +36,13 @@ function hover(product, image, kaosdepan, kaosbelakang) {
 }
 
 hover(product1, image1, imageDepan[0], imageBelakang[0]);
-hover(product2, image2, imageDepan[0], imageBelakang[0]);
-hover(product3, image3, imageDepan[0], imageBelakang[0]);
-hover(product4, image4, imageDepan[0], imageBelakang[0]);
+hover(product2, image2, imageDepan[1], imageBelakang[1]);
+// hover(product3, image3, imageDepan[0], imageBelakang[0]);
+// hover(product4, image4, imageDepan[0], imageBelakang[0]);
 hover(product5, image5, imageDepan[0], imageBelakang[0]);
-hover(product6, image6, imageDepan[0], imageBelakang[0]);
-hover(product7, image7, imageDepan[0], imageBelakang[0]);
-hover(product8, image8, imageDepan[0], imageBelakang[0]);
+hover(product6, image6, imageDepan[1], imageBelakang[1]);
+hover(product7, image7, imageDepan[2], imageBelakang[2]);
+hover(product8, image8, imageDepan[3], imageBelakang[3]);
 
 
 

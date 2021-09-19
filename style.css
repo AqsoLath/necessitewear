@@ -113,6 +113,10 @@ nav{
 	transition: .5s;
 }
 
+.latest .products{
+	/*border: 1px solid var(--black);*/
+}
+
 .product img{
 	/*pointer-events: none;*/
 }
