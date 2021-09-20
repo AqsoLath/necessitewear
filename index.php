@@ -9,7 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <!-- favicon -->
-    <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="image/necess.png" type="image/x-icon">
 
     <!-- My own CSS -->
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -135,62 +135,21 @@
       </div>
       <div class="row products text-center " id="hover-latest">
           <div class="col-6 col-product">
-            <div class="product h-100" id="product1" onclick="window.location='https://shopee.co.id/necessitewear';">
-              <img src="image/baru1-depan.jpg" id="image1" class="img-fluid kaos">
-              <h5>t-shirt necessite baru 1</h5>
-              <h6><span>Rp. 128.000</span><br> Rp. 78.000</h6>
+            <div class="product h-100" id="product1" onclick="window.location='https://shopee.co.id/NECESSITE-WEAR-ANOTHER-BEAUTIFUL-PROBLEMS-VOL.-1-i.435911353.12912618705';">
+              <img src="image/abp1-depan.jpg" id="image1" class="img-fluid kaos">
+              <h5>Another Beautiful Problems Vol.1</h5>
+              <h6><span>Rp. 120.000</span><br> Rp. 89.000</h6>
               <img src="image/new.png" class="new">
             </div>
           </div>
           <div class="col-6 col-product">
-            <div class="product h-100" id="product2" onclick="window.location='https://shopee.co.id/necessitewear';">
-              <img src="image/baru2-depan.jpg" id="image2" class="img-fluid kaos">
-              <h5>t-shirt necessite baru 2</h5>
-              <h6><span>Rp. 128.000</span><br> Rp. 78.000</h6>
+            <div class="product h-100" id="product2" onclick="window.location='https://shopee.co.id/NECESSITE-WEAR-ANOTHER-BEAUTIFUL-PROBLEMS-VOL.-2-i.435911353.10750420449';">
+              <img src="image/abp2-depan.jpg" id="image2" class="img-fluid kaos">
+              <h5>Another Beautiful Problems Vol.2</h5>
+              <h6><span>Rp. 120.000</span><br> Rp. 89.000</h6>
               <img src="image/new.png" class="new">
             </div>
           </div>
-
-        <!-- <div class="col-lg-6 mx-auto">
-          <div class="row text-center" id="hover-latest">
-            <div class="col-6 col-product">
-              <div class="product h-100" id="product1" onclick="window.location='https://shopee.co.id/necessitewear';">
-                <img src="image/kaosdepan.png" id="image1" class="img-fluid kaos">
-                <h5>t-shirt anak haram</h5>
-                <h6><span>Rp. 128.000</span><br> Rp. 78.000</h6>
-                <img src="image/new.png" class="new">
-              </div>
-            </div>
-            <div class="col-6 col-product">
-              <div class="product h-100" id="product2" onclick="window.location='https://shopee.co.id/necessitewear';">
-                <img src="image/kaosdepan.png" class="kaos img-fluid" id="image2">
-                <h5>t-shirt </h5>
-                <h6>Rp. 128.000</h6>
-                <img src="image/new.png" class="new">
-              </div>
-            </div>
-          </div>
-        </div> -->
-        <!-- <div class="col-lg-6 col-sm-6">
-          <div class="row text-center">
-            <div class="col-6 col-product">
-              <div class="product h-100" id="product3" onclick="window.location='https://shopee.co.id/necessitewear';">
-                <img src="image/kaosdepan.png" class="img-fluid kaos" id="image3">
-                <h5>t-shirt necessite black</h5>
-                <h6>Rp. 128.000</h6>
-                <img src="image/new.png" class="new">
-              </div>
-            </div>
-            <div class="col-6 col-product">
-              <div class="product h-100" id="product4" onclick="window.location='https://shopee.co.id/necessitewear';">
-                <img src="image/kaosdepan.png" class="img-fluid kaos" id="image4">
-                <h5>t-shirt necessite black</h5>
-                <h6>Rp. 128.000</h6>
-                <img src="image/new.png" class="new">
-              </div>
-            </div>
-          </div>
-        </div> -->
       </div>
     </div>
 
@@ -207,17 +166,17 @@
         <div class="col-lg-6 col-sm-6">
           <div class="row text-center">
             <div class="col-6 col-product">
-              <div class="product h-100" id="product5" onclick="window.location='https://shopee.co.id/necessitewear';">
+              <div class="product h-100" id="product5" onclick="window.location='https://shopee.co.id/NECESSITE-Mohammed-Ali-i.435911353.8868608308';">
                 <img src="image/ali-depan.jpg" class="img-fluid kaos" id="image5">
-                <h5>t-shirt necessite black</h5>
-                <h6><span>Rp. 128.000</span><br> Rp. 108.000</h6>
+                <h5>NECESSITE - Mohammed Ali</h5>
+                <h6>Rp. 125.000</h6>
               </div>
             </div>
             <div class="col-6 col-product">
-              <div class="product h-100" id="product6" onclick="window.location='https://shopee.co.id/necessitewear';">
+              <div class="product h-100" id="product6" onclick="window.location='https://shopee.co.id/NECESSITE-Black-Sunflower-i.435911353.10412452547';">
                 <img src="image/sunflower-depan.jpg" class="img-fluid kaos" id="image6">
-                <h5>t-shirt necessite black</h5>
-                <h6>Rp. 128.000</h6>
+                <h5>NECESSITE - black sunflower</h5>
+                <h6><span>Rp. 125.000</span><br> Rp. 50.000</h6>
               </div>
             </div>
           </div>
@@ -225,17 +184,17 @@
         <div class="col-lg-6 col-sm-6">
           <div class="row text-center">
             <div class="col-6 col-product">
-              <div class="product h-100" id="product7" onclick="window.location='https://shopee.co.id/necessitewear';">
+              <div class="product h-100" id="product7" onclick="window.location='https://shopee.co.id/NECESSITE-Pablo-i.435911353.9168605787';">
                 <img src="image/pablo-depan.jpg" class="img-fluid kaos" id="image7">
-                <h5>t-shirt necessite black</h5>
-                <h6>Rp. 128.000</h6>
+                <h5>NECESSITE - Pablo</h5>
+                <h6><span>Rp. 125.000</span><br> Rp. 50.000</h6>
               </div>
             </div>
             <div class="col-6 col-product">
-              <div class="product h-100" id="product8" onclick="window.location='https://shopee.co.id/necessitewear';">
+              <div class="product h-100" id="product8" onclick="window.location='https://shopee.co.id/NECESSITE-Black-Japan-i.435911353.9368597279';">
                 <img src="image/japan-depan.jpg" class="img-fluid kaos" id="image8">
-                <h5>t-shirt necessite black</h5>
-                <h6><span>Rp. 128.000</span><br> Rp. 89.000</h6>
+                <h5>NECESSITE - Black Japan</h5>
+                <h6>Rp. 125.000</h6>
               </div>
             </div>
           </div>
@@ -276,17 +235,12 @@
       <div class="container footer">
         <div class="row row-footer">
           <div class="col-md-6 pt-3 about">
-            <h3>About Us</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>About</h3>
+            <p> JUST FEEL GOOD WITH US!!!</p>
           </div>
           <div class="col-md-6 socmed text-center pt-3">
             <h3>Social Media</h3>
-            <a href="https://www.instagram.com/so.aqsho/"><h4><i class="fa fa-instagram"></i> necessitewear</h4></a>
+            <a href="https://www.instagram.com/necessitewear/"><h4><i class="fa fa-instagram"></i> necessitewear</h4></a>
           </div>
 
         </div>
@@ -312,6 +266,6 @@
 
     <!-- My javascript -->
     <script type="text/javascript" src="script.js"></script>
-    <script type="text/javascript" src="scripthover1.js"></script>
+    <script type="text/javascript" src="scripthover2.js"></script>
   </body>
 </html>
