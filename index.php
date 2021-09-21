@@ -54,13 +54,13 @@
           <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="img-fluid h-100" src="image/baru1-1.jpg">
+                <img class="img-fluid" src="image/baru1-1.jpg">
               </div>
               <div class="carousel-item">
-                <img class="img-fluid h-100" src="image/baru1-2.jpg">
+                <img class="img-fluid" src="image/baru1-2.jpg">
               </div>
               <div class="carousel-item">
-                <img class="img-fluid h-100" src="image/baruall-1.jpg">
+                <img class="img-fluid" src="image/baruall-1.jpg">
               </div>
             </div>
           </div>
@@ -70,13 +70,13 @@
           <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="img-fluid h-100" src="image/baru2-5.jpg">
+                <img class="img-fluid" src="image/baru2-5.jpg">
               </div>
               <div class="carousel-item">
-                <img class="img-fluid h-100" src="image/baru2-4.jpg">
+                <img class="img-fluid" src="image/baru2-4.jpg">
               </div>
               <div class="carousel-item">
-                <img class="img-fluid h-100" src="image/baruall-2.jpg">
+                <img class="img-fluid" src="image/baruall-2.jpg">
               </div>
             </div>
           </div>
