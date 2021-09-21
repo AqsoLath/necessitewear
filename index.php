@@ -12,7 +12,7 @@
     <link rel="shortcut icon" href="image/necess.png" type="image/x-icon">
 
     <!-- My own CSS -->
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style1.css">
 
     <!-- goggle fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -136,10 +136,10 @@
       <div class="row products text-center " id="hover-latest">
           <div class="col-6 col-product">
             <div class="product h-100" id="product1" onclick="window.location='https://shopee.co.id/NECESSITE-WEAR-ANOTHER-BEAUTIFUL-PROBLEMS-VOL.-1-i.435911353.12912618705';">
-              <img src="image/abp1-depan.jpg" id="image1" class="img-fluid kaos">
+              <img src="image/abp1-depan.jpg" id="image1" class="img-fluid kaos"> 
               <h5>Another Beautiful Problems Vol.1</h5>
               <h6><span>Rp. 120.000</span><br> Rp. 89.000</h6>
-              <img src="image/new.png" class="new">
+              <!-- <img src="image/new.png" class="new"> -->
             </div>
           </div>
           <div class="col-6 col-product">
@@ -147,7 +147,7 @@
               <img src="image/abp2-depan.jpg" id="image2" class="img-fluid kaos">
               <h5>Another Beautiful Problems Vol.2</h5>
               <h6><span>Rp. 120.000</span><br> Rp. 89.000</h6>
-              <img src="image/new.png" class="new">
+              <!-- <img src="image/new.png" class="new"> -->
             </div>
           </div>
       </div>
@@ -161,9 +161,46 @@
       <div class="row">
         <h2>Best Seller</h2>
       </div>
-      <div class="row products">
+      <div class="row products text-center">
+            <div class="col-lg-3 col-6 col-product">
+              <div class="product h-100" id="product5" onclick="window.location='https://shopee.co.id/NECESSITE-Mohammed-Ali-i.435911353.8868608308';">
+                <img src="image/ali-depan.jpg" class="img-fluid kaos" id="image5">
+                <h5>NECESSITE - Mohammed Ali</h5>
+                <h6>Rp. 125.000</h6>
+              </div>
+            </div>
+            <div class="col-lg-3 col-6 col-product">
+              <div class="product h-100" id="product6" onclick="window.location='https://shopee.co.id/NECESSITE-Black-Sunflower-i.435911353.10412452547';">
+                <img src="image/sunflower-depan.jpg" class="img-fluid kaos" id="image6">
+                <h5>NECESSITE - black sunflower</h5>
+                <h6><span>Rp. 125.000</span><br> Rp. 50.000</h6>
+              </div>
+            </div>
+            <div class="col-lg-3 col-6 col-product">
+              <div class="product h-100" id="product7" onclick="window.location='https://shopee.co.id/NECESSITE-Pablo-i.435911353.9168605787';">
+                <img src="image/pablo-depan.jpg" class="img-fluid kaos" id="image7">
+                <h5>NECESSITE - Pablo</h5>
+                <h6><span>Rp. 125.000</span><br> Rp. 50.000</h6>
+              </div>
+            </div>
+            <div class="col-lg-3 col-6 col-product">
+              <div class="product h-100" id="product8" onclick="window.location='https://shopee.co.id/NECESSITE-Black-Japan-i.435911353.9368597279';">
+                <img src="image/japan-depan.jpg" class="img-fluid kaos" id="image8">
+                <h5>NECESSITE - Black Japan</h5>
+                <h6>Rp. 125.000</h6>
+              </div>
+            </div>
 
-        <div class="col-lg-6 col-sm-6">
+
+
+
+
+
+
+
+
+
+        <!-- <div class="col-lg-6 col-sm-6">
           <div class="row text-center">
             <div class="col-6 col-product">
               <div class="product h-100" id="product5" onclick="window.location='https://shopee.co.id/NECESSITE-Mohammed-Ali-i.435911353.8868608308';">
@@ -198,7 +235,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 
@@ -236,7 +273,7 @@
         <div class="row row-footer">
           <div class="col-md-6 pt-3 about">
             <h3>About</h3>
-            <p> JUST FEEL GOOD WITH US!!!</p>
+            <p> We are a bunch of teenagers, who want to improve other teenagers about fashion and style. We produce high quality products at affordable price, so it would be perfect for teenagers.</p>
           </div>
           <div class="col-md-6 socmed text-center pt-3">
             <h3>Social Media</h3>
@@ -265,7 +302,7 @@
     -->
 
     <!-- My javascript -->
-    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="script1.js"></script>
     <script type="text/javascript" src="scripthover2.js"></script>
   </body>
 </html>
